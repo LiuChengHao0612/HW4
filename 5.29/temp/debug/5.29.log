@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\asus\desktop\c_code\110360236_劉丞皓\5.29\source\main.c(17): error C2146: 語法錯誤: 遺漏 ')' (在識別項 'or' 之前)
+c:\users\asus\desktop\c_code\110360236_劉丞皓\5.29\source\main.c(17): error C2065: 'or': 未宣告的識別項
+c:\users\asus\desktop\c_code\110360236_劉丞皓\5.29\source\main.c(17): error C2146: 語法錯誤: 遺漏 ';' (在識別項 'i' 之前)
+c:\users\asus\desktop\c_code\110360236_劉丞皓\5.29\source\main.c(17): error C2059: 語法錯誤: ')'
+c:\users\asus\desktop\c_code\110360236_劉丞皓\5.29\source\main.c(18): error C2143: 語法錯誤: 遺漏 ';' (在 '{' 之前)
+c:\users\asus\desktop\c_code\110360236_劉丞皓\5.29\source\main.c(17): warning C4552: '!=': 未使用運算式結果
